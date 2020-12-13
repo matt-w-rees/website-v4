@@ -1,0 +1,108 @@
+baseURL = "https://matthewreesearch.com"
+languageCode = "en-au"
+title = "Matthew Rees"
+theme = "avicenna"
+googleAnalytics = "UA-1234-6"
+timeout=3000
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
+
+[params]
+  subtitle= "Applied Ecologist"
+  interests="Predators, Invasive Species, Heirachical Models, Generalised Additive Models, Camera-traps."
+  cv_name= "matthew-rees-CV.pdf"
+
+[[params.affilation]]
+  name = "University of Melbourne"
+  position = "PhD Student"
+  contact = "matt.wayne.rees@gmail.com"
+
+[[params.social]]
+  name = "GitHub"
+  icon = "github"
+  url = "https://github.com/matt-w-rees"
+
+[[params.social]]
+  name = "Twitter"
+  icon = "twitter"
+  url = "https://twitter.com/matt_w_rees"
+
+[[params.social]]
+  name = "LinkedIn"
+  icon = "linkedin"
+  url = "https://linkedin.com/in/matthew-w-rees/"
+
+
+[[params.introduction.paragraph]]
+  text="""I'm a PhD candidate with the [QAECO](https://qaeco.com) lab at the University of Melbourne. My research vision is split into three core themes:
++ *Conservation biology*: what are the priority actions we should take to improve native species persistence? 
++ *Estimating population dynamics and density*: where do species occur, how does this change over time and how many individuals are there in a given area?
++ *Modelling interactions between species*: how does one species impact the spatio-temporal behaviour and population dynamics of another species?
+
+I primarily conduct this research through the lens of predator ecology, invasive animal control and native mammal conservation---guiding optimal management and monitoring protocols for land managers. I firmly beleive in quantitative science which is transparent, reproducible and collaborative. 
+
+I pay respect to the traditional custodians of the lands where I live and work - the Wurundjeri, Bundjalung, Gunditjmara, Gadubanud and Kirrae whurrung. 
+   """
+
+
+[[params.publications]]
+  year="Peer-reviewed"
+
+  [[params.publications.paper]]
+		name = "Rapidly assessing cobenefits to advance threat‐management alliances"
+		authors = "__MW Rees__, J Carwardine, A Reeson & J Firn (2020)"
+		dest  = "*Conservation Biology*"
+		link = "https://doi.org/10.1016/j.biocon.2019.108287"
+		code_link = ""
+		blog_link = ""
+
+  [[params.publications.paper]]
+		name = "Unexpectedly high densities of feral cats in a rugged temperate forest"
+		authors = "__MW Rees__, JH Pascoe, BA Wintle, M Le Pla, EK Birnbaum & BA Hradsky (2019)"
+		dest  = "*Biological Conservation*"
+		link = "https://doi.org/10.1016/j.biocon.2019.108287"
+		code_link = "https://github.com/matt-w-rees/feral-cat-otways-2017-SMR"
+		blog_link = ""
+
+[[params.publications]]
+  year="In review"
+
+  [[params.publications.paper]]
+    name = "Variation in feral cat density between two large adjacent islands in Australia’s monsoon tropics"
+    authors = "H Davies, Tiwi Land Rangers, **MW Rees**, D Stokeld, A Miller, G Gillespie and B Murphy"
+
+
+  [[params.publications.paper]]
+    name = "Genetic sampling and an activity index indicate contrasting lethal control outcomes"
+    authors = "M Le Pla, EK Birnbaum, **MW Rees**, BA Hradsky, AR Weeks, A Van Rooyen and JH Pascoe"
+
+  
+  [[params.publications.paper]]
+  name = "Sharing meals: predation on Australian mammals by the introduced European red fox compounds and complements predation by feral cats"
+  authors = "A Stobo-Wilson... **MW Rees**..."
+
+    
+  [[params.publications.paper]]
+  name = "Sharing meals: predation on Australian mammals by the introduced European red fox compounds and complements predation by feral cats"
+  authors = "A Stobo-Wilson... **MW Rees**..."
+
+
+  [[params.publications.paper]]
+  name = "Reptiles as food: predation of Australian reptiles by introduced red foxes compounds and complements predation by cats"
+  authors = "A Stobo-Wilson... **MW Rees**..."
+
+    
+  [[params.publications.paper]]
+  name = "Compounding and complementary carnivores: Australian bird species eaten by the introduced European red fox Vulpes vulpes and domestic cat Felis catus"
+  authors = "A Stobo-Wilson... **MW Rees**..."
+
+    
+[[params.publications]]
+  year="Reports"
+
+  [[params.publications.paper]]
+    name = "Monitoring and managing critical weight range mammals in the Indigenous protected areas of the world heritage Budj Bim cultural landscape"
+    authors = "__MW Rees__"
+    dest  = "*A report prepared for the Department of Environment, Land, Water and Planning*"
+    link = ""
+    code_link = ""
+    blog_link = ""
