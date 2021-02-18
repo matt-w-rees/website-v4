@@ -39,7 +39,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\
 
 I primarily conduct this research through the lens of predator ecology, invasive animal control and native mammal conservation---guiding optimal management and monitoring protocols for land managers. I firmly beleive in quantitative science which is transparent, reproducible and collaborative. Oh and feral cats too.  
 
-I pay respect to the traditional custodians of the lands where I live and work - the Wurundjeri, Bundjalung, Gunditjmara, Gadubanud and Kirrae whurrung. 
    """
 
 
@@ -107,3 +106,5 @@ I pay respect to the traditional custodians of the lands where I live and work -
     link = ""
     code_link = ""
     blog_link = ""
+    
+
