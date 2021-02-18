@@ -62,13 +62,15 @@ I pay respect to the traditional custodians of the lands where I live and work -
 		code_link = "https://github.com/matt-w-rees/feral-cat-otways-2017-SMR"
 		blog_link = ""
 
+ [[params.publications.paper]]
+    name = "Variation in feral cat density between two large adjacent islands in Australia’s monsoon tropics"
+    authors = "H Davies, Tiwi Land Rangers, **MW Rees**, D Stokeld, A Miller, G Gillespie and B Murphy (in press)"
+		dest  = "*Pacific Conservation Biology*"
+
+
+
 [[params.publications]]
   year="In review"
-
-  [[params.publications.paper]]
-    name = "Variation in feral cat density between two large adjacent islands in Australia’s monsoon tropics"
-    authors = "H Davies, Tiwi Land Rangers, **MW Rees**, D Stokeld, A Miller, G Gillespie and B Murphy"
-
 
   [[params.publications.paper]]
     name = "Genetic sampling and an activity index indicate contrasting lethal control outcomes"
