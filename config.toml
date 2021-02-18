@@ -7,7 +7,7 @@ timeout=3000
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 
 [params]
-  interests="Predators, Invasive Species, Threat Management, Heirachical Models, Generalised Additive Models, Camera-traps."
+  interests="Camera-trapping; decision theory; Generalised Additive Models; heirachical population models; invasive species; predators."
   cv_name= "matthew-rees-CV.pdf"
 
 [[params.affilation]]
@@ -33,11 +33,11 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\
 
 [[params.introduction.paragraph]]
   text="""I'm a PhD candidate with the [QAECO](https://qaeco.com) lab at the University of Melbourne. My research vision is split into three core themes:
-+ *Conservation biology*: what are the priority actions we should take to improve native species persistence? 
++ *Conservation biology*: what are the priority actions (based on cost-effectiveness and social context) we should take to improve native species persistence? 
 + *Estimating population dynamics and density*: where do species occur, how many individuals are there and how does this change over time?
 + *Modelling interactions between species*: how does one species impact the spatio-temporal behaviour and population dynamics of another species?
 
-I primarily conduct this research through the lens of predator ecology, invasive animal control and native mammal conservation---guiding optimal management and monitoring protocols for land managers. I firmly beleive in quantitative science which is transparent, reproducible and collaborative. 
+I primarily conduct this research through the lens of predator ecology, invasive animal control and native mammal conservation---guiding optimal management and monitoring protocols for land managers. I firmly beleive in quantitative science which is transparent, reproducible and collaborative. Oh and feral cats too.  
 
 I pay respect to the traditional custodians of the lands where I live and work - the Wurundjeri, Bundjalung, Gunditjmara, Gadubanud and Kirrae whurrung. 
    """
