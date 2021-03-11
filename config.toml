@@ -7,7 +7,7 @@ timeout=3000
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 
 [params]
-  interests="Camera-trapping; decision theory; Generalised Additive Models; heirachical population models; invasive species; predators."
+  interests="Predator ecology; Invasive animals; Fire; Camera-trapping; Spatial capture-recapture, occupancy-detection, generalised additive and integrated population models."
   cv_name= "matthew-rees-CV.pdf"
 
 [[params.affilation]]
@@ -33,18 +33,28 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\
 
 [[params.introduction.paragraph]]
   text=""" 
-I'm a PhD candidate with the [QAECO](https://qaeco.com) lab at the University of Melbourne. My research vision is split into three core themes:
-+ *Conservation biology*: what are the priority actions (based on cost-effectiveness and social context) we should take to improve native species persistence? 
+I'm a PhD candidate with the [QAECO](https://qaeco.com) lab at the University of Melbourne. I use quantitative methods and work closely with land managers to solve conservation problems centred around threatened and invasive species. 
+Predators are inherently difficult to monitor and manage (also fairly interesting), and so, make up a large component of my research. More broadly, I visualise my research as falling into three core themes: 
 + *Estimating population dynamics and density*: where do species occur, how many individuals are there and how does this change over time?
 + *Modelling interactions between species*: how does one species impact the spatio-temporal behaviour and population dynamics of another species?
++ *Integrating multiple types of data and models*: how do we piece together all sources of information to improve estimates of population parameters and their uncertainty?
 
-I primarily conduct this research through the lens of predator ecology, invasive animal control and native mammal conservation---guiding optimal management and monitoring protocols for land managers. I firmly beleive in quantitative science which is transparent, reproducible and collaborative. Oh and feral cats too.  
    """
 
 
 [[params.publications]]
   year="Peer-reviewed"
+  
+  [[params.publications.paper]]
+    name = "Reptiles as food: predation of Australian reptiles by introduced red foxes compounds and complements predation by cats"
+    authors = "A Stobo-Wilson... **MW Rees**... (in press)"
+	  dest  = "*Wildlife Research*"
 
+		 [[params.publications.paper]]
+    name = "Variation in feral cat density between two large adjacent islands in Australia’s monsoon tropics"
+    authors = "H Davies, Tiwi Land Rangers, **MW Rees**, D Stokeld, A Miller, G Gillespie and B Murphy (in press)"
+		dest  = "*Pacific Conservation Biology*"
+		
   [[params.publications.paper]]
 		name = "Rapidly assessing cobenefits to advance threat‐management alliances"
 		authors = "__MW Rees__, J Carwardine, A Reeson & J Firn (2020)"
@@ -61,11 +71,6 @@ I primarily conduct this research through the lens of predator ecology, invasive
 		code_link = "https://github.com/matt-w-rees/feral-cat-otways-2017-SMR"
 		blog_link = ""
 
- [[params.publications.paper]]
-    name = "Variation in feral cat density between two large adjacent islands in Australia’s monsoon tropics"
-    authors = "H Davies, Tiwi Land Rangers, **MW Rees**, D Stokeld, A Miller, G Gillespie and B Murphy (in press)"
-		dest  = "*Pacific Conservation Biology*"
-
 
 
 [[params.publications]]
@@ -74,7 +79,6 @@ I primarily conduct this research through the lens of predator ecology, invasive
   [[params.publications.paper]]
     name = "Genetic sampling and an activity index indicate contrasting lethal control outcomes"
     authors = "M Le Pla, EK Birnbaum, **MW Rees**, BA Hradsky, AR Weeks, A Van Rooyen and JH Pascoe"
-
   
   [[params.publications.paper]]
   name = "Sharing meals: predation on Australian mammals by the introduced European red fox compounds and complements predation by feral cats"
@@ -82,19 +86,12 @@ I primarily conduct this research through the lens of predator ecology, invasive
 
     
   [[params.publications.paper]]
-  name = "Sharing meals: predation on Australian mammals by the introduced European red fox compounds and complements predation by feral cats"
-  authors = "A Stobo-Wilson... **MW Rees**..."
-
-
-  [[params.publications.paper]]
-  name = "Reptiles as food: predation of Australian reptiles by introduced red foxes compounds and complements predation by cats"
-  authors = "A Stobo-Wilson... **MW Rees**..."
-
-    
-  [[params.publications.paper]]
   name = "Compounding and complementary carnivores: Australian bird species eaten by the introduced European red fox Vulpes vulpes and domestic cat Felis catus"
   authors = "A Stobo-Wilson... **MW Rees**..."
 
+  [[params.publications.paper]]
+  name = "Counting the bodies: the numbers of, and spatial variation in, Australian reptiles, birds and mammals killed by two introduced predators."
+  authors = "A Stobo-Wilson... **MW Rees**..."
     
 [[params.publications]]
   year="Reports"
