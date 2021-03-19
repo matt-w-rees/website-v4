@@ -47,13 +47,14 @@ Predators are inherently difficult to monitor and manage (also fairly interestin
   
   [[params.publications.paper]]
     name = "Reptiles as food: predation of Australian reptiles by introduced red foxes compounds and complements predation by cats"
-    authors = "A Stobo-Wilson... **MW Rees**... (in press)"
+    authors = "A Stobo-Wilson... __MW Rees__... (in press)"
 	  dest  = "*Wildlife Research*"
 
 		 [[params.publications.paper]]
     name = "Variation in feral cat density between two large adjacent islands in Australia’s monsoon tropics"
-    authors = "H Davies, Tiwi Land Rangers, **MW Rees**, D Stokeld, A Miller, G Gillespie and B Murphy (in press)"
+    authors = "H Davies, Tiwi Land Rangers, __MW Rees__, D Stokeld, A Miller, G Gillespie and B Murphy (2021)"
 		dest  = "*Pacific Conservation Biology*"
+	  link = "https://doi.org/10.1071/PC20088"
 		
   [[params.publications.paper]]
 		name = "Rapidly assessing cobenefits to advance threat‐management alliances"
