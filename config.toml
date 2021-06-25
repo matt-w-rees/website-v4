@@ -34,11 +34,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\
 [[params.introduction.paragraph]]
   text=""" 
 I'm a PhD candidate with the [QAECO](https://qaeco.com) lab at the University of Melbourne. I use quantitative methods to assist land managers with conservation problems centred around threatened and invasive species. 
-Mammalian predators are inherently difficult to monitor and manage (also fairly interesting), and so, make up a large component of my research. More broadly, I visualise my research as falling into three core themes: 
-+ *Estimating population dynamics and density*: where do species occur, how many individuals are there and how does this change over time?
-+ *Modelling interactions between species*: how does one species impact the spatio-temporal behaviour and population dynamics of another species?
-+ *Integrating multiple types of data and models*: how do we piece together all sources of information to improve estimates of population parameters and their uncertainty?
-
+Mammalian predators are inherently difficult to monitor and manage (also fairly interesting), and so, make up a large component of my research.
+More broadly, my work tends to fall into three core themes: (1) estimating population dynamics and density, (2) modelling species interactions, and (3) integrating multiple types of data and models. 
+I try to conduct this research at finescales and the individual-level where possible. 
+My PhD thesis details the interactions between introduced foxes, feral cats and threatened prey, set against a backdrop of intensive fox control and prescribed fire.
    """
 
 
@@ -47,8 +46,9 @@ Mammalian predators are inherently difficult to monitor and manage (also fairly 
   
   [[params.publications.paper]]
     name = "Reptiles as food: predation of Australian reptiles by introduced red foxes compounds and complements predation by cats"
-    authors = "A Stobo-Wilson... __MW Rees__... (in press)"
+    authors = "A Stobo-Wilson... __MW Rees__..."
 	  dest  = "*Wildlife Research*"
+	  link = "https://www.publish.csiro.au/WR/justaccepted/WR20194"
 
 		 [[params.publications.paper]]
     name = "Variation in feral cat density between two large adjacent islands in Australia’s monsoon tropics"
