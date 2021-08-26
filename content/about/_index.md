@@ -43,7 +43,7 @@ socials:
 title: about
 ---
 
-I am a PhD candidate with the [Quantitative and Applied Ecology group](https://qaeco.com) at the University of Melbourne. My research aims to understand the outcomes of conservation threat-management interventions, particularly predator control. 
+I am a PhD candidate with the [Quantitative and Applied Ecology group](https://qaeco.com) at the University of Melbourne. My research aims to understand outcomes of conservation threat-management interventions, with a particular focus on invasive predator control. 
 
 
 [1]: ahadsfsa.com
