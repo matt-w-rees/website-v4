@@ -1,5 +1,5 @@
 ---
-title: "Monitoring and managing critical weight range mammals in the indigenous protected areas of the world heritage Budj Bim cultural landscape"
+title: "Monitoring and managing critical weight range mammals in the Indigenous Protected Areas of the World Heritage Budj Bim Cultural Landscape"
 
 authors:
 - MW Rees
