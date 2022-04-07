@@ -14,9 +14,9 @@ academia:
     
 affiliations:
 - affiliation:
-    email: matt.wayne.rees@gmail.com
-    name: University of Melbourne
-    title: Ph.D.
+    email: matt.rees@csiro.au
+    name: CSIRO 
+    title: Ecologist
     
 blog: false
 #cv: matthew-rees-CV.pdf
@@ -28,10 +28,11 @@ full_name: Matthew W. Rees
 headless: true
 
 interests:
-- Estimating population dynamics
-- Modelling species interactions
-- Statistical methods for camera-trap data
-- Predator ecology
+- Conservation and agricultural decision-making
+- Invasive species and predator ecology
+- Population dynamics and species interactions
+- Integrating various types and sources of data
+
 
 profile_picture: profile.png
 
@@ -43,4 +44,4 @@ socials:
 title: about
 ---
 
-I am a PhD candidate with the [Quantitative and Applied Ecology group](https://qaeco.com) at the University of Melbourne. My research aims to understand outcomes of conservation threat-management interventions, with a focus on invasive predator control. This includes improving ecological inference through optimised survey designs and robust statistical models.
+I am a postdoctoral research follow with the [CSIRO](https://www.csiro.au) Adaptive Biosecurity Management team. I use quantitative methods to improve conservation monitoring and management, with a focus on invasive species ecology. Currently based in Brisbane, Australia, my CERC postdoctoral fellowship covers a range of invasive animal projects, but most of my time is spent trying to forecast mouse plagues in agricultural regions. I recently finished my PhD (under examination) and a short postdoctoral position with the [Quantitative and Applied Ecology group](https://qaeco.com) at the University of Melbourne. Here my research focused on the interactions between introduced foxes, feral cats and threatened native prey.   
