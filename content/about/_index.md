@@ -5,12 +5,13 @@ academia:
     institution: University of Melbourne
     major: Quantitative Ecology
     start_date: "2017"
+    end_date: "2022"
 - course:
     degree: B.Sc. (Hons)
-    end_date: "2016"
     institution: Queensland University of Technology
     major: Environmental Science
     start_date: "2013"
+    end_date: "2016"
     
 affiliations:
 - affiliation:
@@ -44,4 +45,4 @@ socials:
 title: about
 ---
 
-I want to help conserve nature and promote more effective management of 'problem' species. These days I am spending less time in the field collecting data and more time finessing over statistical models which make sense out of our piecemeal ecological data. Not sure if I have become more interested in maths, or just burnt out from copious leeches and workplace risk assessments. My research tends to focus on introduced species; where and how many there are, how they interact with other species and alter ecosystem function. This is ~~probably some subconscious, weak attempt to fix the mistakes of my colonial ancestors and appease the white guilt~~ a key area in which western science can be useful in reversing the extinction crisis and enabling more sustainable management practices. I completed my PhD and several small contracts with the [Quantitative and Applied Ecology group](https://qaeco.com) at the University of Melbourne. Here my research focused on the interactions between foxes, feral cats and threatened native prey. Now I am a postdoctoral research fellow with the [CSIRO](https://www.csiro.au) Adaptive Biosecurity Management team, based in Brisbane. I mostly try to stitch together different data types to (i) forecast house mouse plagues in grain growing regions, and (ii) predict current distributions of invasive species across Australia (e.g., gamba grass and feral pigs).
+I want to help conserve nature and promote more effective management of 'problem' species. These days I am spending less time in the field collecting data and more time finessing over statistical models which make sense out of our piecemeal ecological data. Not sure if I have become more interested in maths, or just burnt out from copious leeches and workplace risk assessments. My research tends to focus on introduced species; where and how many there are, as well as how they interact with other species and alter ecosystem function. This is ~~probably some subconscious, weak attempt to fix the mistakes of my colonial ancestors and appease the white guilt~~ a key area in which western science can be useful in reversing the extinction crisis and enabling more sustainable management practices. I completed my PhD and several small contracts with the [Quantitative and Applied Ecology group](https://qaeco.com) at the University of Melbourne. Here my research focused on the interactions between foxes, feral cats and threatened native prey. Now I am a postdoctoral research fellow with the [CSIRO](https://www.csiro.au) Adaptive Biosecurity Management team, based in Brisbane. I mostly try to stitch together different data types to (i) forecast house mouse plagues in grain growing regions, and (ii) predict current distributions of invasive species across Australia (e.g., gamba grass and feral pigs).
