@@ -50,3 +50,5 @@ I want to help conserve nature and promote more effective management of 'problem
 These days I am spending less time in the field and more time finessing over statistical models which make sense of our piecemeal ecological data (not sure if I have become more interested in maths or burned out from leech bites and risk assessments). I completed my PhD and several small contracts with the [Quantitative and Applied Ecology group](https://qaeco.com) at the University of Melbourne. Now I am a Postdoctoral Research Fellow with the [CSIRO](https://www.csiro.au) Adaptive Biosecurity Management team, based in Brisbane. Here I mostly try to stitch together different data types to (i) forecast house mouse plagues in grain growing regions, and (ii) predict current distributions of invasive species across Australia (e.g., gamba grass and feral pigs).
 
 Please drop me a line if you would like a free copy of a publication or have questions about my research.
+
+\$\~\$
