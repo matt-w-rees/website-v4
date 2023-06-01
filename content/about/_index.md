@@ -35,7 +35,7 @@ interests:
 - Integrating various types and sources of data
 
 
-profile_picture: Matt-8.jpg
+profile_picture: profile.jpg
 
 socials:
   github: matt-w-rees
