@@ -14,4 +14,5 @@ publication: "Oikos"
 
 links:
     code: https://github.com/matt-w-rees/spatiotemporal-gams-invasive-predators
+    data: https://doi.org/10.5061/dryad.9ghx3ffq4
 ---
