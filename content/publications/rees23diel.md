@@ -3,11 +3,10 @@ title: "Dynamic shifts in predator diel activity patterns across landscapes and 
 
 authors:
 - MW Rees
+- BA Wintle
 - JH Pascoe
 - M Le Pla
-- A Robley
 - EK Birnbaum 
-- BA Wintle
 - BA Hradsky
 date: "2023-09-04"
 
