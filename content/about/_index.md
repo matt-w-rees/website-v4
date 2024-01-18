@@ -30,9 +30,9 @@ headless: true
 
 interests:
 - Conservation and agricultural decision-making
+- Statistical ecology 
 - Invasive species and predator ecology
-- Population dynamics and species interactions
-- Integrating various types and sources of data
+- Optimal survey design
 
 
 profile_picture: profile.png
@@ -45,6 +45,10 @@ socials:
 title: about
 ---
 
-I am a research scientist aiming to help conserve nature and promote effective management of pest species. My work tends to focus on species introduced beyond their natural range: estimating their distribution, density and ecosystem impacts. Invasive species management can have unintended consequences which need to be weighed up against potential benefits on a case-by-case basis. For example, in my PhD I investigated a potential behavioural and numerical 'release' of feral cats following poison-baiting programs targeting introduced red foxes, which may explain why some native prey species do not benefit from fox control. I am particularly interested in how top predators shape ecosystems, as well as the ability of our monitoring and modelling practices to uncover these processes.
+I am a scientist researching how to effectively conserve nature and manage "pest" species. 
+My work tends to focus on (i) measuring outcomes of ecosystem interventions, (ii) estimating species populations dynamics, as well as (iii) uncovering interactions among coexisting species (particularly concerning invasive animals or top predators). 
+I completed my PhD in 2022 with the [Quantitative and Applied Ecology group](https://qaeco.com) at the University of Melbourne, which investigated behavioural and numerical 'release' of feral cats following poison-baiting programs targeting introduced red foxes, which may explain why some native prey species do not benefit from fox control.
+Currently I am based in Brisbane as a Postdoctoral Research Fellow with [CSIRO](https://www.csiro.au). 
+Here my projects focus on data integration and spatiotemporal methods to more accurately estimate current distributions of priority pest species, as well as near-term forecasting of mouse plagues. 
+I also serve on the Executive Committee of the [Queensland Conservation Council](https://www.queenslandconservation.org.au/), which provides a united voice for environmental community groups across the state. 
 
-These days I am spending less time in the field and more time finessing over statistical models. I completed my PhD with the [Quantitative and Applied Ecology group](https://qaeco.com) at the University of Melbourne. I am currently a Postdoctoral Research Fellow with the [CSIRO](https://www.csiro.au) Adaptive Biosecurity Management team, based in Brisbane. Here I mostly stitch together different data types to (i) forecast house mouse plagues in grain growing regions, and (ii) predict current distributions of invasive species across Australia, such as feral pigs.
