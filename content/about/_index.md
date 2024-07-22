@@ -30,9 +30,9 @@ headless: true
 
 interests:
 - Conservation and agricultural management
-- Statistical ecology 
+- Population ecology 
 - Invasive species and predator ecology
-- Optimal survey design
+- Statistics and data science
 
 
 profile_picture: profile.png
