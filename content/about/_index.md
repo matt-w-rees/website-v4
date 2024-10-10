@@ -45,7 +45,7 @@ socials:
 title: about
 ---
 
-I am a scientist researching how to effectively conserve nature and manage "pest" species. 
+I am a scientist researching how to effectively conserve nature and manage pest species. 
 My work tends to focus on (i) measuring outcomes of ecosystem interventions, (ii) estimating species populations dynamics, as well as (iii) uncovering interactions among coexisting species (particularly concerning invasive animals or top predators). 
 I completed my PhD in 2022 with the [Quantitative and Applied Ecology group](https://qaeco.com) at the University of Melbourne, which investigated behavioural and numerical 'release' of feral cats following poison-baiting programs targeting introduced red foxes, which may explain why some native prey species do not benefit from fox control. Currently I am based in Brisbane as a Research Scientist with [CSIRO](https://www.csiro.au). Here my projects focus on data integration and spatiotemporal methods for invasive species management, with a particular on mouse plagues. I also serve on the Executive Committee of the [Queensland Conservation Council](https://www.queenslandconservation.org.au/), which provides a united voice for environmental community groups across the state. 
 
