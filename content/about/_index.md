@@ -17,7 +17,7 @@ affiliations:
 - affiliation:
     email: matt.rees@csiro.au
     name: CSIRO
-    title: Ecologist
+    title: Research Scientist
     
 blog: false
 #cv: matthew-rees-CV.pdf
@@ -29,10 +29,10 @@ full_name: Dr Matthew W. Rees
 headless: true
 
 interests:
-- Conservation and agricultural management
-- Population ecology 
-- Invasive species and predator ecology
-- Statistics and data science
+- Conservation, biosecurity, agriculture
+- Ecological statistics and data science
+- Invasive species and population ecology 
+- Near-term ecological forecasting
 
 
 profile_picture: profile.png
@@ -45,7 +45,9 @@ socials:
 title: about
 ---
 
-I am a scientist researching how to effectively conserve nature and manage pest species. 
-My work tends to focus on (i) measuring outcomes of ecosystem interventions, (ii) estimating species populations dynamics, as well as (iii) uncovering interactions among coexisting species (particularly concerning invasive animals or top predators). 
-I completed my PhD in 2022 with the [Quantitative and Applied Ecology group](https://qaeco.com) at the University of Melbourne, which investigated behavioural and numerical 'release' of feral cats following poison-baiting programs targeting introduced red foxes, which may explain why some native prey species do not benefit from fox control. Currently I am based in Brisbane as a Research Scientist with [CSIRO](https://www.csiro.au). Here my projects focus on data integration and spatiotemporal methods for invasive species management, with a particular on mouse plagues. I also serve on the Executive Committee of the [Queensland Conservation Council](https://www.queenslandconservation.org.au/), which provides a united voice for environmental community groups across the state. 
-
+I am a quantitative and applied ecologist, researching the best approaches for nature conservation and pest management. 
+I work closely with conservation, biosecurity and agricultural stakeholders to address real-world problems and improve actions on the ground.
+Typically, I make sense of messy datasets to model species population dynamics, evaluate management actions and improve monitoring designs. 
+Rather than a single study species or system, I am passionate about robust and reproducible science; equally content surveying wild animals as coding complex statistical models. 
+Based in Canberra, Australia, a current focus of my work is developing near-term forecasts for outbreak risk of house mouse populations--a major socioeconomic and environmental threat to rural Australia. 
+In my spare time, I serve on the Executive Committee of the [Queensland Conservation Council](https://www.queenslandconservation.org.au/), which provides a united voice for environmental community groups across the state. 
