@@ -49,5 +49,5 @@ I am a quantitative and applied ecologist, researching the best approaches for n
 I work closely with conservation, biosecurity and agricultural stakeholders to address real-world problems and improve actions on the ground.
 Typically, I make sense of messy datasets to model species population dynamics, evaluate management actions and improve monitoring designs. 
 Rather than a single study species or system, I am passionate about robust and reproducible science; equally content surveying wild animals as coding complex statistical models. 
-Based in Canberra, Australia, a current focus of my work is developing near-term forecasts for outbreak risk of house mouse populations--a major socioeconomic and environmental threat to rural Australia. 
+Based in Canberra, Australia, a current focus of my work is developing near-term forecasts for outbreak risk of house mouse populations --- a major socioeconomic and environmental threat to rural Australia. 
 In my spare time, I serve on the Executive Committee of the [Queensland Conservation Council](https://www.queenslandconservation.org.au/), which provides a united voice for environmental community groups across the state. 
